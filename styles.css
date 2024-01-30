@@ -3,3 +3,10 @@ h1 {
   font-size: 4rem;
   transition: 3s;
 }
+
+.container div {
+  width: 100px;
+  height: 100px;
+  background-color: rebeccapurple;
+  border-radius: 100%;
+}
